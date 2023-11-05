@@ -21,3 +21,5 @@ def main():
 if __name__ == '__main__':
     main()
     print("master")
+    print("master2")
+    print("master3")
